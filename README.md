@@ -2,7 +2,8 @@
 
 A modern e-commerce application built with Flutter, featuring a clean UI and core shopping functionalities. Ideal for learning Flutter development and e-commerce patterns.
 
-![App Preview](https://via.placeholder.com/800x400.png?text=E-Commerce+App+Preview)
+
+<img src="screenshots/screenshot1.jpg" width="200">|<img src="screenshots/screenshot2.jpg" width="200">|<img src="screenshots/screenshot3.jpg" width="200">
 
 ## Features
 
