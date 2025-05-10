@@ -33,7 +33,7 @@ dependencies:
   provider: ^6.0.5 # State management
   shimmer: ^2.0.0 # Loading animations
   flutter_rating_bar: ^4.0.1 # Star ratings
-  carousel_slider: ^4.2.1 # Image carousels
+  carousel_slider: ^5.0.0 # Image carousels
   intl: ^0.18.1 # Currency formatting
   cached_network_image: ^3.3.0
 
